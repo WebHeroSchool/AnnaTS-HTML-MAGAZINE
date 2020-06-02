@@ -1,1 +1,1 @@
-edit AnnaTS-HTML-MAGAZINE
+add magazine page AnnaTS-HTML-MAGAZINE
